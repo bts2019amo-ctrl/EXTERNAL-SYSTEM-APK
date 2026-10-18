@@ -1,0 +1,2 @@
+# EXTERNAL-SYSTEM-APK
+EXTERNAL SYSTEM Android APK - Blue theme rebrand
