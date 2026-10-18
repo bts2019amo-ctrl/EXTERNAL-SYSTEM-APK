@@ -1,11 +1,14 @@
 # EXTERNAL SYSTEM APK
 
-APK rebranded with **blue theme** (EXTERNAL SYSTEM).
+APK rebranded with blue theme.
 
-## Download
+## Download the APK
 
-The APK file is in this repository. Download `EXTERNAL-SYSTEM.apk`.
+The APK is available in this repository as `EXTERNAL-SYSTEM.apk`.
 
-If you have issues, the file may need to be handled as binary.
+**Direct download from GitHub:**
+https://github.com/bts2019amo-ctrl/EXTERNAL-SYSTEM-APK/raw/main/EXTERNAL-SYSTEM.apk
 
-**Repo:** https://github.com/bts2019amo-ctrl/EXTERNAL-SYSTEM-APK
+If the file is not the binary APK, the ready-to-install APK is also provided in the chat for direct download.
+
+**Repository:** https://github.com/bts2019amo-ctrl/EXTERNAL-SYSTEM-APK
